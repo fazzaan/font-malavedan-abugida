@@ -48,6 +48,6 @@ ___
 * add numbers  
 * add basic punctuation and symbols  
 * attach glyphs to sensible unicode range in PUA  
-* build basic website to host fonts, text and dictionary of Malavedan language  
+* build basic website to host fonts, text and dictionary of Malavedan language (put in separate github repository)  
 * create conversion script to convert between QWERTY encoding and PUA encoding (and future dedicated unicode range when it's been accepted by the Unicode Consortium)
 * draft submission proposal for the Unicode Consortium for Malavedan
