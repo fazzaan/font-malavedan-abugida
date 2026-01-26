@@ -1,10 +1,10 @@
 # Malavedan Script Font
 
-This is the first font ever made for the recently-constructed script for the endangered Malavedan language, a Dravidian language of Kerala and Tamil Nadu is closely related to Malayalam.  
+This is the first font ever made of the recently-constructed script for the endangered Malavedan language, a Dravidian language of Kerala and Tamil Nadu that is closely related to Malayalam.  
 
 This font project was requested by a person of the Malavedan tribe who reached out to me on Reddit.  
 
-[ image of script ]
+<img width="1192" height="891" alt="image" src="https://github.com/user-attachments/assets/44f9627a-2765-40f8-a53f-24e23c13105d" />
 
 I'd say you can read more at the following links, but there's really not much information online.  
 
@@ -34,5 +34,8 @@ ___
 
 # To Do
 * add numbers  
-* add basic punctuation and symbols
+* add basic punctuation and symbols  
 * attach glyphs to sensible unicode range in PUA  
+* build basic website to host fonts, text and dictionary of Malavedan language  
+* create conversion script to convert between QWERTY encoding and PUA encoding (and future dedicated unicode range when it's been accepted by the Unicode Consortium)
+* draft submission proposal for the Unicode Consortium for Malavedan
