@@ -7,13 +7,25 @@ This font project was requested by a person of the Malavedan tribe who reached o
 <img width="1192" height="891" alt="image" src="https://github.com/user-attachments/assets/44f9627a-2765-40f8-a53f-24e23c13105d" />
 
 I'd say you can read more at the following links, but there's really not much information online.  
+Notably, none of these pages seem to mention the _Chathi_ subgroup or language.  
 
+<details>
+  <summary>Click to see links</summary>
+  
 * [https://en.wikipedia.org/wiki/Malavedan_language](https://en.wikipedia.org/wiki/Malavedan_language)  
 * [https://www.ethnologue.com/language/mjr/](https://www.ethnologue.com/language/mjr/)
+* [https://www.wikidata.org/wiki/Q12952775](https://www.wikidata.org/wiki/Q12952775)  
+* [https://glottolog.org/resource/languoid/id/mala1463](https://glottolog.org/resource/languoid/id/mala1463)
+* [https://globalrecordings.net/en/language/13414](https://globalrecordings.net/en/language/13414)
+* [https://anythingtranslate.com/translators/malavedan-malayalam-script-translator/](https://anythingtranslate.com/translators/malavedan-malayalam-script-translator/) (I have no idea how this works or if it's remotely correct)
+* [https://dbpedia.org/page/Malavedan_language](https://dbpedia.org/page/Malavedan_language)
+* [https://www.thehindu.com/news/national/kerala/dlsa-adopts-tribal-settlement/article69382094.ece](https://www.thehindu.com/news/national/kerala/dlsa-adopts-tribal-settlement/article69382094.ece) 
 
-The script's symbols in the font are bound to their own unicode range (the [PUA](https://en.wikipedia.org/wiki/Private_Use_Areas)) and directly to the Latin (English) QWERTY layout.  
+</details>
 
 ## About Malavedan script
+
+The script's symbols in the font are bound to their own unicode range (the [PUA](https://en.wikipedia.org/wiki/Private_Use_Areas)) and directly to the Latin (English) QWERTY layout.  
 
 This Malavedan (_Malai Vedan_, IPA: [mɐlɐʋeːɖɐn]) script is an abugida, with visual and structural similarities to the Malayalam script.  
 
