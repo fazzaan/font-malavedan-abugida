@@ -5,7 +5,16 @@ This is the first font ever made of the recently-constructed script for the enda
 This font project was requested by a person of the Malavedan tribe who reached out to me on Reddit.  
 
 _Image shows font at version 0.950. Download from [Releases page](https://github.com/fazzaan/font-malavedan-abugida/releases)._ 
+<details>
+  <summary>click to expand to view font image</summary>
+
 <img width="1011" height="1080" alt="image" src="https://github.com/user-attachments/assets/51db3b9e-0764-4496-a2c9-78a1d21d9235" />
+
+</details>
+
+[View the keyboard layout](https://github.com/fazzaan/font-malavedan-abugida/tree/main/Keyboard%20layouts/QWERTY%20v1) (choose latest version number)  
+
+[Watch a short video demonstrating how to type some letters](https://github.com/fazzaan/font-malavedan-abugida/blob/main/Keyboard%20layouts/QWERTY%20v1/Typing%20method%20examples%20-%20R%2C%20Long%20vowel%2C%20Vowel%20modifiers.mp4) (downloads because github doesn't have a video player)  
 
 I'd say you can read more at the following links, but there's really not much information online.  
 Notably, none of these pages seem to mention the _Chathi_ subgroup or language.  
@@ -46,6 +55,7 @@ From the tribe member who requested this font:
 ___
 
 # To Do
+- [x] ~~create [typing method](https://github.com/fazzaan/font-malavedan-abugida/tree/main/Keyboard%20layouts)~~  
 - [x] ~~add numbers~~
 - [x] ~~add basic punctuation and symbols~~
 - [ ] attach glyphs to sensible unicode range in PUA  
