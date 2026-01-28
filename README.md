@@ -4,7 +4,8 @@ This is the first font ever made of the recently-constructed script for the enda
 
 This font project was requested by a person of the Malavedan tribe who reached out to me on Reddit.  
 
-<img width="1192" height="891" alt="image" src="https://github.com/user-attachments/assets/44f9627a-2765-40f8-a53f-24e23c13105d" />
+_Image shows font at version 0.950. Download from [Releases page](https://github.com/fazzaan/font-malavedan-abugida/releases)._ 
+<img width="1011" height="1080" alt="image" src="https://github.com/user-attachments/assets/51db3b9e-0764-4496-a2c9-78a1d21d9235" />
 
 I'd say you can read more at the following links, but there's really not much information online.  
 Notably, none of these pages seem to mention the _Chathi_ subgroup or language.  
@@ -25,7 +26,7 @@ Notably, none of these pages seem to mention the _Chathi_ subgroup or language.
 
 ## About Malavedan script
 
-The script's symbols in the font are bound to their own unicode range (the [PUA](https://en.wikipedia.org/wiki/Private_Use_Areas)) and directly to the Latin (English) QWERTY layout.  
+The script's symbols in the font are (will be) bound to their own unicode range (the [PUA](https://en.wikipedia.org/wiki/Private_Use_Areas)) and directly to the Latin (English) QWERTY layout.  
 
 This Malavedan (_Malai Vedan_, IPA: [mɐlɐʋeːɖɐn]) script is an abugida, with visual and structural similarities to the Malayalam script.  
 
@@ -45,9 +46,9 @@ From the tribe member who requested this font:
 ___
 
 # To Do
-* add numbers  
-* add basic punctuation and symbols  
-* attach glyphs to sensible unicode range in PUA  
-* build basic website to host fonts, text and dictionary of Malavedan language (put in separate github repository)  
-* create conversion script to convert between QWERTY encoding and PUA encoding (and future dedicated unicode range when it's been accepted by the Unicode Consortium)
-* draft submission proposal for the Unicode Consortium for Malavedan
+- [x] ~~add numbers~~
+- [x] ~~add basic punctuation and symbols~~
+- [ ] attach glyphs to sensible unicode range in PUA  
+- [ ] build basic website to host fonts, text and dictionary of Malavedan language (put in separate github repository)  
+- [ ] create conversion script to convert between QWERTY encoding and PUA encoding (and future dedicated unicode range when it's been accepted by the Unicode Consortium)
+- [ ] draft submission proposal for the Unicode Consortium for Malavedan
